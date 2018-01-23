@@ -32,7 +32,6 @@
                 </form>
                 @include('layouts.errors')
             </div>
-            <div>Something else</div>
         </div>
 
     </div>
